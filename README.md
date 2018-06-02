@@ -2,5 +2,5 @@
 Awesome guide to welcome freshers to the world of Computer Science.
 
 # Artificial Intelligence
-https://www.elementsofai.com/
-https://aischool.microsoft.com/learning-paths
+* <https://www.elementsofai.com/>
+* <https://aischool.microsoft.com/learning-paths>
