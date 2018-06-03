@@ -2,7 +2,8 @@
 Awesome guide to welcome fresher college students to the world of Computer Science.
 
 # Kickstart
-* Practice Projects: <https://github.com/karan/Projects-Solutions>
+* Practice Programs: <https://github.com/karan/Projects-Solutions>
+* Project Ideas: <https://github.com/vicky002/1000_Projects>
 
 # Artificial Intelligence
 * <https://www.elementsofai.com/>
