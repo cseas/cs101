@@ -30,3 +30,7 @@ Awesome collection of some of the best resources online to welcome fresher colle
 # Technical Student Ambassador Programs
 * Unity 3D: <https://unity3d.com/student-ambassadors>
 * HackerEarth: <https://www.hackerearth.com/docs/wiki/campus/introduction/>
+
+# Summer Student Programs
+* IISC Summer School: <https://events.csa.iisc.ac.in/summerschool2018/>
+* Google Summer of Code: <https://summerofcode.withgoogle.com/>
