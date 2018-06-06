@@ -1,6 +1,9 @@
 # cs101
 Awesome collection of some of the best resources online to welcome fresher college students to the world of Computer Science. Contributions are whole-heartedly welcome.
 
+# Absolute Beginners
+* Harvard CS50: <https://www.youtube.com/playlist?list=PLhQjrBD2T3828ZVcVzEIhsHVgjANGZveu>
+
 # Kickstart
 * Practice Programs: <https://github.com/karan/Projects-Solutions>
 * Project Ideas: <https://github.com/vicky002/1000_Projects>
@@ -19,9 +22,11 @@ Awesome collection of some of the best resources online to welcome fresher colle
 
 # Machine Learning
 * Coursera: <https://www.coursera.org/learn/machine-learning>
+* Udacity: <https://in.udacity.com/course/intro-to-machine-learning--ud120>
 
 # Deep Learning
-* 7 Week Course: <http://course.fast.ai/>
+* Fast.ai: <http://course.fast.ai/>
+* Udacity: <https://in.udacity.com/course/deep-learning--ud730>
 
 # Artificial Intelligence
 * Elements of AI: <https://www.elementsofai.com/>
