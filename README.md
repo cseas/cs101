@@ -1,5 +1,5 @@
 # cs101
-Awesome collection of some of the best resources online to welcome fresher college students to the world of Computer Science. Contributions are whole-heartedly welcomed.
+Awesome collection of some of the best resources online to welcome fresher college students to the world of Computer Science. Contributions are whole-heartedly welcome.
 
 # Kickstart
 * Practice Programs: <https://github.com/karan/Projects-Solutions>
