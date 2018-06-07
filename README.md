@@ -2,7 +2,7 @@
 Awesome collection of some of the best resources online to welcome fresher college students to the world of Computer Science. Contributions are whole-heartedly welcome.
 
 # Absolute Beginners
-* Harvard CS50: <https://www.youtube.com/playlist?list=PLhQjrBD2T3828ZVcVzEIhsHVgjANGZveu>
+* Harvard CS50: <https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x>
 
 # Kickstart
 * Practice Programs: <https://github.com/karan/Projects-Solutions>
@@ -31,6 +31,7 @@ Awesome collection of some of the best resources online to welcome fresher colle
 # Artificial Intelligence
 * Elements of AI: <https://www.elementsofai.com/>
 * Microsoft AI School: <https://aischool.microsoft.com/learning-paths>
+* [Microsoft AI Professional Program](https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/)
 
 # Technical Student Ambassador Programs
 * Unity 3D: <https://unity3d.com/student-ambassadors>
