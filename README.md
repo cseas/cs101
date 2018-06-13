@@ -3,6 +3,7 @@ Awesome collection of some of the best resources online to welcome fresher colle
 
 ## Absolute Beginners
 * Harvard CS50: <https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x>
+* Udacity: <https://in.udacity.com/course/intro-to-computer-science--cs101>
 
 ## Kickstart
 * Practice Programs: <https://github.com/karan/Projects-Solutions>
