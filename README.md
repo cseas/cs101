@@ -13,6 +13,8 @@ Awesome collection of some of the best resources online to welcome fresher colle
 ## Web Development
 * CS50's Web Programming with Python and JavaScript: <https://youtu.be/EOZDjqwvVG8>
 * Free Code Camp: <https://www.freecodecamp.org/>
+* Udacity HTML CSS: <https://in.udacity.com/course/intro-to-html-and-css--ud304>
+* Udacity JavaScript: <https://in.udacity.com/course/intro-to-javascript--ud803>
 
 ## Mobile Development
 * Google's Mobile Courses: <https://developers.google.com/training/courses/overview>
