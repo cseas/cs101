@@ -1,4 +1,4 @@
-# cs101
+## cs101
 Awesome collection of some of the best resources online to welcome fresher college students to the world of Computer Science. Contributions are whole-heartedly welcome.
 
 ## Absolute Beginners
@@ -12,6 +12,7 @@ Awesome collection of some of the best resources online to welcome fresher colle
 
 ## Web Development
 * CS50's Web Programming with Python and JavaScript: <https://youtu.be/EOZDjqwvVG8>
+* Free Code Camp: <https://www.freecodecamp.org/>
 
 ## Mobile Development
 * Google's Mobile Courses: <https://developers.google.com/training/courses/overview>
