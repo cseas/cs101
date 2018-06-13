@@ -35,6 +35,7 @@ Awesome collection of some of the best resources online to welcome fresher colle
 
 ## Artificial Intelligence
 * Elements of AI: <https://www.elementsofai.com/>
+* Intro to AI by Peter Norvig: <https://in.udacity.com/course/intro-to-artificial-intelligence--cs271>
 * Microsoft AI School: <https://aischool.microsoft.com/learning-paths>
 * [Microsoft AI Professional Program](https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/)
 
