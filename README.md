@@ -1,7 +1,7 @@
 ## cs101
 Awesome collection of some of the best resources online to welcome fresher college students to the world of Computer Science. Contributions are whole-heartedly welcome.  
 
-The guide contains the following resources:
+The guide contains the following sections:
 * [Absolute Beginners](#absolute-beginners)
 * [Kickstart](#kickstart)
 * [Competitive Coding](#competitive-coding)
