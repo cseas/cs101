@@ -18,6 +18,7 @@ The guide contains the following sections:
 ## Absolute Beginners
 * Harvard CS50: <https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x>
 * Udacity: <https://in.udacity.com/course/intro-to-computer-science--cs101>
+* TheNewBoston: <https://www.youtube.com/user/thenewboston/playlists>
 
 ## Kickstart
 * Practice Programs: <https://github.com/karan/Projects-Solutions>
