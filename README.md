@@ -2,7 +2,7 @@
 Awesome collection of some of the best resources online to welcome fresher college students to the world of Computer Science. Contributions are whole-heartedly welcome.  
 
 The guide contains the following resources:
-* [Absolute Beginners](#competitive-coding)
+* [Absolute Beginners](#absolute-beginners)
 * [Kickstart](#kickstart)
 * [Competitive Coding](#competitive-coding)
 * [Web Development](#web-development)
@@ -10,7 +10,7 @@ The guide contains the following resources:
 * [Game Development](#game-development)
 * [Machine Learning](#machine-learning)
 * [Deep Learning](#deep-learning)
-* [Artificial Intelligence](#artificial-intelligece)
+* [Artificial Intelligence](#artificial-intelligence)
 * [Technical Student Ambassadors Programs](#technical-student-ambassador-programs)
 * [Summer Student Programs](#summer-student-programs)
 * [Women In Tech Programs](#women-in-tech-programs)
