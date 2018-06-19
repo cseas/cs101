@@ -12,12 +12,12 @@ The guide contains the following sections:
 * [Deep Learning](#deep-learning)
 * [Artificial Intelligence](#artificial-intelligence)
 * [Open Source](#open-source)
-* [Technical Student Ambassadors Programs](#technical-student-ambassador-programs)
+* [Technical Student Ambassador Programs](#technical-student-ambassador-programs)
 * [Summer Student Programs](#summer-student-programs)
 * [Women In Tech Programs](#women-in-tech-programs)
 
 ## Absolute Beginners
-* Harvard CS50: <https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x>
+* [CS50](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) - Introduction to Computer Science by Harvard University on edX.
 * Udacity: <https://in.udacity.com/course/intro-to-computer-science--cs101>
 * TheNewBoston: <https://www.youtube.com/user/thenewboston/playlists>
 
