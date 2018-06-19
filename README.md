@@ -1,5 +1,5 @@
 ## cs101
-Awesome collection of some of the best resources online to welcome fresher college students to the world of Computer Science. Contributions are whole-heartedly welcome.  
+Awesome collection of some of the best resources online to welcome fresher college students to the world of Computer Science. Contributions are welcome.  
 
 The guide contains the following sections:
 * [Absolute Beginners](#absolute-beginners)
@@ -11,6 +11,7 @@ The guide contains the following sections:
 * [Machine Learning](#machine-learning)
 * [Deep Learning](#deep-learning)
 * [Artificial Intelligence](#artificial-intelligence)
+* [Open Source](#open-source)
 * [Technical Student Ambassadors Programs](#technical-student-ambassador-programs)
 * [Summer Student Programs](#summer-student-programs)
 * [Women In Tech Programs](#women-in-tech-programs)
@@ -50,22 +51,36 @@ The guide contains the following sections:
 * Udacity: <https://in.udacity.com/course/intro-to-machine-learning--ud120>
 
 ## Deep Learning
-* Fast.ai: <http://course.fast.ai/>
+* [Fast.ai](http://course.fast.ai/) - 7 week course on Practical Deep Learning
 * Udacity: <https://in.udacity.com/course/deep-learning--ud730>
 * Coursera: <https://www.coursera.org/specializations/deep-learning>
 
 ## Artificial Intelligence
 * Elements of AI: <https://www.elementsofai.com/>
-* Intro to AI by Peter Norvig: <https://in.udacity.com/course/intro-to-artificial-intelligence--cs271>
+* [Intro to AI by Peter Norvig and Sebastian Thrun on Udacity](https://in.udacity.com/course/intro-to-artificial-intelligence--cs271)
 * Microsoft AI School: <https://aischool.microsoft.com/learning-paths>
 * [Microsoft AI Professional Program](https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/)
+
+## Open Source
+
+- [Up For Grabs](http://up-for-grabs.net/) - List of projects which have curated tasks specifically for new contributors.
+- [issuehub.io](http://issuehub.io/) - Contribute to Open Source. Search issue labels to find the right project for you!
+- [FIRST TIMERS ONLY](http://www.firsttimersonly.com/) - Friendly Open Source projects should reserve specific issues for newbies.
+- [Your First PR](http://yourfirstpr.github.io/) - Start contributing to Open Source with great starter issues on GitHub and elsewhere.
+- [Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
+- [Codetriange](https://www.codetriage.com/) - Help out your favorite open source projects and become a better developer while doing it.
+- [Pull Request Roulette](http://PullRequestRoulette.com) - Pull requests (or PRs) submitted for review.
+- [24 Pull Requests](http://24pullrequests.com) - Contribute to projects for 24 days leading up to christmas.
 
 ## Technical Student Ambassador Programs
 * Unity 3D: <https://unity3d.com/student-ambassadors>
 * HackerEarth: <https://www.hackerearth.com/docs/wiki/campus/introduction/>
+* GitHub Campus Expert: <https://education.github.com/students/experts>
 
 ## Summer Student Programs
 * IISC Summer School: <https://events.csa.iisc.ac.in/summerschool2018/>
+* [Code Jam Kickstart](https://code.google.com/codejam/kickstart/) - Solve algorithmic challenges designed by Google engineers.
+* [Code Jam](https://code.google.com/codejam/) - Google’s largest coding competition.
 * Google Summer of Code: <https://summerofcode.withgoogle.com/>
 
 ## Women In Tech Programs
