@@ -18,8 +18,8 @@ The guide contains the following sections:
 
 ## Absolute Beginners
 * [CS50](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) - Introduction to Computer Science by Harvard University on edX.
-* Udacity: <https://in.udacity.com/course/intro-to-computer-science--cs101>
-* TheNewBoston: <https://www.youtube.com/user/thenewboston/playlists>
+* [CS 101](https://in.udacity.com/course/intro-to-computer-science--cs101) - Udacity's Intro to Computer Science.
+* [The New Boston](https://www.youtube.com/user/thenewboston/playlists) - Programming tutorials by Bucky Roberts.
 
 ## Kickstart
 * Practice Programs: <https://github.com/karan/Projects-Solutions>
@@ -65,7 +65,7 @@ The guide contains the following sections:
 
 - [Up For Grabs](http://up-for-grabs.net/) - List of projects which have curated tasks specifically for new contributors.
 - [issuehub.io](http://issuehub.io/) - Contribute to Open Source. Search issue labels to find the right project for you!
-- [FIRST TIMERS ONLY](http://www.firsttimersonly.com/) - Friendly Open Source projects should reserve specific issues for newbies.
+- [First Timers Only](http://www.firsttimersonly.com/) - Friendly Open Source projects should reserve specific issues for newbies.
 - [Your First PR](http://yourfirstpr.github.io/) - Start contributing to Open Source with great starter issues on GitHub and elsewhere.
 - [Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
 - [Codetriange](https://www.codetriage.com/) - Help out your favorite open source projects and become a better developer while doing it.
@@ -73,9 +73,12 @@ The guide contains the following sections:
 - [24 Pull Requests](http://24pullrequests.com) - Contribute to projects for 24 days leading up to christmas.
 
 ## Technical Student Ambassador Programs
-* Unity 3D: <https://unity3d.com/student-ambassadors>
-* HackerEarth: <https://www.hackerearth.com/docs/wiki/campus/introduction/>
-* GitHub Campus Expert: <https://education.github.com/students/experts>
+* [Unity Student Ambassadors](https://unity3d.com/student-ambassadors)
+* [HackerEarth Campus Ambassadors](https://www.hackerearth.com/docs/wiki/campus/introduction/)
+* [GitHub Campus Experts](https://education.github.com/students/experts)
+* [Dell Campassadors](http://www.dellcampassador.com/)
+* [Google Developer Student Clubs](https://docs.google.com/document/d/1ID21JDIYQ144tH0XSwOXF4nF5JWUbXIxAlmP4DWrOwU/edit)
+* [Microsoft Student Partners](https://msdn.microsoft.com/en-in/microsoftstudentpartners.aspx)
 
 ## Summer Student Programs
 * IISC Summer School: <https://events.csa.iisc.ac.in/summerschool2018/>
