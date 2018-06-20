@@ -57,7 +57,7 @@ The guide contains the following sections:
 
 ## Artificial Intelligence
 * Elements of AI: <https://www.elementsofai.com/>
-* [Intro to AI by Peter Norvig and Sebastian Thrun on Udacity](https://in.udacity.com/course/intro-to-artificial-intelligence--cs271)
+* [Udacity](https://in.udacity.com/course/intro-to-artificial-intelligence--cs271) - Intro to AI by Peter Norvig and Sebastian Thrun
 * Microsoft AI School: <https://aischool.microsoft.com/learning-paths>
 * [Microsoft AI Professional Program](https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/)
 
