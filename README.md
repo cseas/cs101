@@ -47,13 +47,15 @@ The guide contains the following sections:
 * Unity 3D: <https://unity3d.com/learn>
 
 ## Machine Learning
-* Coursera: <https://www.coursera.org/learn/machine-learning>
-* Udacity: <https://in.udacity.com/course/intro-to-machine-learning--ud120>
+* [Coursera](https://www.coursera.org/learn/machine-learning) - Machine Learning by Andrew NG using Matlab.
+* [Udacity](https://in.udacity.com/course/intro-to-machine-learning--ud120) - Intro to ML using Scikit-Learn.
+* [Google](https://developers.google.com/machine-learning/crash-course/prereqs-and-prework) - Machine Learning Crash Course using Tensorflow.
 
 ## Deep Learning
 * [Fast.ai](http://course.fast.ai/) - 7 week course on Practical Deep Learning
 * Udacity: <https://in.udacity.com/course/deep-learning--ud730>
 * Coursera: <https://www.coursera.org/specializations/deep-learning>
+* [Google Code Labs](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0) - TensorFlow and deep learning, without a PhD
 
 ## Artificial Intelligence
 * Elements of AI: <https://www.elementsofai.com/>
