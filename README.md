@@ -1,27 +1,33 @@
-## cs101
+# cs101
 Awesome collection of some of the best resources online to welcome fresher college students to the world of Computer Science. Contributions are welcome.  
 
 The guide contains the following sections:
-* [Absolute Beginners](#absolute-beginners)
-* [Kickstart](#kickstart)
-* [Competitive Coding](#competitive-coding)
-* [Web Development](#web-development)
-* [Mobile Development](#mobile-development)
-* [Game Development](#game-development)
-* [Machine Learning](#machine-learning)
-* [Deep Learning](#deep-learning)
-* [Artificial Intelligence](#artificial-intelligence)
-* [Open Source](#open-source)
-* [Technical Student Ambassador Programs](#technical-student-ambassador-programs)
-* [Summer Student Programs](#summer-student-programs)
-* [Women In Tech Programs](#women-in-tech-programs)
+* [Beginner](#beginner)  
+  - [Absolute Beginners](#absolute-beginners)
+  - [Kickstart Projects](#kickstart-projects)
+  - [Competitive Coding](#competitive-coding)
+* [Intermediate](#intermediate)
+  - [Web Development](#web-development)
+  - [Mobile Development](#mobile-development)
+  - [Game Development](#game-development)
+  - [Open Source](#open-source)
+* [Advanced](#advanced)
+  - [Machine Learning](#machine-learning)
+  - [Deep Learning](#deep-learning)
+  - [Artificial Intelligence](#artificial-intelligence)
+* [Developer Programs](#developer-programs)
+  - [Technical Student Ambassador Programs](#technical-student-ambassador-programs)
+  - [Summer Student Programs](#summer-student-programs)
+  - [Women In Tech Programs](#women-in-tech-programs)
+
+# Beginner
 
 ## Absolute Beginners
 * [CS50](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) - Introduction to Computer Science by Harvard University on edX.
 * [CS 101](https://in.udacity.com/course/intro-to-computer-science--cs101) - Udacity's Intro to Computer Science.
 * [The New Boston](https://www.youtube.com/user/thenewboston/playlists) - Programming tutorials by Bucky Roberts.
 
-## Kickstart
+## Kickstart Projects
 * Practice Programs: <https://github.com/karan/Projects-Solutions>
 * Project Ideas: <https://github.com/vicky002/1000_Projects>
 * 100 Days of Code Challenge: <http://www.100daysofcode.com/>
@@ -31,6 +37,8 @@ The guide contains the following sections:
 * HackerRank: <https://www.hackerrank.com/>
 * HackerEarth: <https://www.hackerearth.com/>
 * Kaggle (Data Science): <https://www.kaggle.com/>
+
+# Intermediate
 
 ## Web Development
 * CS50's Web Programming with Python and JavaScript: <https://youtu.be/EOZDjqwvVG8>
@@ -45,6 +53,19 @@ The guide contains the following sections:
 ## Game Development
 * CS50's Introduction to Game Development: <https://youtu.be/YP-PYULVx0k>
 * Unity 3D: <https://unity3d.com/learn>
+
+## Open Source
+
+- [Up For Grabs](http://up-for-grabs.net/) - List of projects which have curated tasks specifically for new contributors.
+- [issuehub.io](http://issuehub.io/) - Contribute to Open Source. Search issue labels to find the right project for you!
+- [First Timers Only](http://www.firsttimersonly.com/) - Friendly Open Source projects should reserve specific issues for newbies.
+- [Your First PR](http://yourfirstpr.github.io/) - Start contributing to Open Source with great starter issues on GitHub and elsewhere.
+- [Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
+- [Codetriange](https://www.codetriage.com/) - Help out your favorite open source projects and become a better developer while doing it.
+- [Pull Request Roulette](http://PullRequestRoulette.com) - Pull requests (or PRs) submitted for review.
+- [24 Pull Requests](http://24pullrequests.com) - Contribute to projects for 24 days leading up to christmas.
+
+# Advanced
 
 ## Machine Learning
 * [Coursera](https://www.coursera.org/learn/machine-learning) - Machine Learning by Andrew NG using Matlab.
@@ -63,16 +84,7 @@ The guide contains the following sections:
 * Microsoft AI School: <https://aischool.microsoft.com/learning-paths>
 * [Microsoft AI Professional Program](https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/)
 
-## Open Source
-
-- [Up For Grabs](http://up-for-grabs.net/) - List of projects which have curated tasks specifically for new contributors.
-- [issuehub.io](http://issuehub.io/) - Contribute to Open Source. Search issue labels to find the right project for you!
-- [First Timers Only](http://www.firsttimersonly.com/) - Friendly Open Source projects should reserve specific issues for newbies.
-- [Your First PR](http://yourfirstpr.github.io/) - Start contributing to Open Source with great starter issues on GitHub and elsewhere.
-- [Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
-- [Codetriange](https://www.codetriage.com/) - Help out your favorite open source projects and become a better developer while doing it.
-- [Pull Request Roulette](http://PullRequestRoulette.com) - Pull requests (or PRs) submitted for review.
-- [24 Pull Requests](http://24pullrequests.com) - Contribute to projects for 24 days leading up to christmas.
+# Developer Programs
 
 ## Technical Student Ambassador Programs
 * [Unity Student Ambassadors](https://unity3d.com/student-ambassadors)
