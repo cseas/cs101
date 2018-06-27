@@ -71,6 +71,7 @@ The guide contains the following sections:
 * [Coursera](https://www.coursera.org/learn/machine-learning) - Machine Learning by Andrew NG using Matlab.
 * [Udacity](https://in.udacity.com/course/intro-to-machine-learning--ud120) - Intro to ML using Scikit-Learn.
 * [Google](https://developers.google.com/machine-learning/crash-course/prereqs-and-prework) - Machine Learning Crash Course using Tensorflow.
+* [YouTube](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal) - Machine Learning Recipes with Josh Gordon
 
 ## Deep Learning
 * [Fast.ai](http://course.fast.ai/) - 7 week course on Practical Deep Learning
