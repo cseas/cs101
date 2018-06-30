@@ -28,9 +28,10 @@ The guide contains the following sections:
 * [The New Boston](https://www.youtube.com/user/thenewboston/playlists) - Programming tutorials by Bucky Roberts.
 
 ## Kickstart Projects
-* Practice Programs: <https://github.com/karan/Projects-Solutions>
+* [Practice Programs](https://github.com/karan/Projects-Solutions)
 * Project Ideas: <https://github.com/vicky002/1000_Projects>
 * 100 Days of Code Challenge: <http://www.100daysofcode.com/>
+* [Project Based Learning](https://github.com/tuvtran/project-based-learning)
 
 ## Competitive Coding
 * Codechef: <http://www.codechef.com/>
