@@ -29,9 +29,10 @@ The guide contains the following sections:
 
 ## Kickstart Projects
 * [Practice Programs](https://github.com/karan/Projects-Solutions)
-* Project Ideas: <https://github.com/vicky002/1000_Projects>
-* 100 Days of Code Challenge: <http://www.100daysofcode.com/>
+* [Project Ideas](https://github.com/vicky002/1000_Projects)
+* [100 Days of Code Challenge](http://www.100daysofcode.com/)
 * [Project Based Learning](https://github.com/tuvtran/project-based-learning)
+* [Rapid API](https://rapidapi.com/) - World's top APIs for all kinds of tasks.
 
 ## Competitive Coding
 * Codechef: <http://www.codechef.com/>
@@ -42,8 +43,8 @@ The guide contains the following sections:
 # Intermediate
 
 ## Web Development
-* CS50's Web Programming with Python and JavaScript: <https://youtu.be/EOZDjqwvVG8>
-* Free Code Camp: <https://www.freecodecamp.org/>
+* [CS50's Web Programming with Python and JavaScript](https://youtu.be/EOZDjqwvVG8)
+* [Free Code Camp](https://www.freecodecamp.org/)
 * Udacity HTML CSS: <https://in.udacity.com/course/intro-to-html-and-css--ud304>
 * Udacity JavaScript: <https://in.udacity.com/course/intro-to-javascript--ud803>
 
@@ -73,6 +74,7 @@ The guide contains the following sections:
 * [Udacity](https://in.udacity.com/course/intro-to-machine-learning--ud120) - Intro to ML using Scikit-Learn.
 * [Google](https://developers.google.com/machine-learning/crash-course/prereqs-and-prework) - Machine Learning Crash Course using Tensorflow.
 * [YouTube](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal) - Machine Learning Recipes with Josh Gordon
+* [Foundations of Machine Learning](https://bloomberg.github.io/foml/#home) - 30 lecture training course by Blooomberg.
 
 ## Deep Learning
 * [Fast.ai](http://course.fast.ai/) - 7 week course on Practical Deep Learning
