@@ -36,10 +36,10 @@ The guide contains the following sections:
 * [Rapid API](https://rapidapi.com/) - World's top APIs for all kinds of tasks.
 
 ## Competitive Coding
-* Codechef: <http://www.codechef.com/>
-* HackerRank: <https://www.hackerrank.com/>
-* HackerEarth: <https://www.hackerearth.com/>
-* Kaggle (Data Science): <https://www.kaggle.com/>
+* [Codechef](http://www.codechef.com/)
+* [HackerRank](https://www.hackerrank.com/)
+* [HackerEarth](https://www.hackerearth.com/)
+* [Kaggle (Data Science)](https://www.kaggle.com/)
 
 # Intermediate
 
