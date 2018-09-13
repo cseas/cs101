@@ -75,7 +75,7 @@ The guide contains the following sections:
 * [Coursera](https://www.coursera.org/learn/machine-learning) - Machine Learning by Andrew NG using Matlab.
 * [Udacity](https://in.udacity.com/course/intro-to-machine-learning--ud120) - Intro to ML using Scikit-Learn.
 * [Google](https://developers.google.com/machine-learning/crash-course/prereqs-and-prework) - Machine Learning Crash Course using Tensorflow.
-* [YouTube](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal) - Machine Learning Recipes with Josh Gordon
+* [YouTube](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal) - Machine Learning Recipes with Josh Gordon.
 * [Foundations of Machine Learning](https://bloomberg.github.io/foml/#home) - 30 lecture training course by Blooomberg.
 
 ## Deep Learning
@@ -110,5 +110,5 @@ The guide contains the following sections:
 * [Google Summer of Code](https://summerofcode.withgoogle.com/)
 
 ## Women In Tech Programs
-* Google's Women Techmakers: <https://www.womentechmakers.com/>
-* Django Girls: <https://djangogirls.org/>
+- [Google's Women Techmakers](https://www.womentechmakers.com/)
+- [Django Girls](https://djangogirls.org/)
