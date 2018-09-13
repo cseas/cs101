@@ -45,7 +45,7 @@ The guide contains the following sections:
 
 ## Web Development
 - [CS50's Web Programming with Python and JavaScript](https://youtu.be/EOZDjqwvVG8)
-- [Free Code Camp](https://www.freecodecamp.org/)
+- [Free Code Camp](https://learn.freecodecamp.org/)
 - [Udacity: Intro to HTML and CSS](https://in.udacity.com/course/intro-to-html-and-css--ud304)
 - [Udacity: Intro to JavaScript](https://in.udacity.com/course/intro-to-javascript--ud803)
 - [Intro to React](https://reactjs.org/tutorial/tutorial.html)
