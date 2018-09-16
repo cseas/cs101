@@ -96,12 +96,13 @@ The guide contains the following sections:
 # Developer Programs
 
 ## Technical Student Ambassador Programs
-* [Unity Student Ambassadors](https://unity3d.com/student-ambassadors)
-* [HackerEarth Campus Ambassadors](https://www.hackerearth.com/docs/wiki/campus/introduction/)
-* [GitHub Campus Experts](https://education.github.com/students/experts)
-* [Dell Campassadors](http://www.dellcampassador.com/)
-* [Google Developer Student Clubs](https://docs.google.com/document/d/1ID21JDIYQ144tH0XSwOXF4nF5JWUbXIxAlmP4DWrOwU/edit)
-* [Microsoft Student Partners](https://studentpartners.microsoft.com/)
+- [Unity Student Ambassadors](https://unity3d.com/student-ambassadors)
+- [HackerEarth Campus Ambassadors](https://www.hackerearth.com/docs/wiki/campus/introduction/)
+- [GitHub Campus Experts](https://education.github.com/students/experts)
+- [Dell Campassadors](http://www.dellcampassador.com/)
+- [Google Developer Student Clubs](https://docs.google.com/document/d/1ID21JDIYQ144tH0XSwOXF4nF5JWUbXIxAlmP4DWrOwU/edit)
+- [Microsoft Student Partners](https://studentpartners.microsoft.com/)
+- [HackerRank Campus Ambassadors](https://www.hackerrank.com/campus-ambassador-program)
 
 ## Summer Student Programs
 * [IISC Summer School](https://events.csa.iisc.ac.in/summerschool2018/)
