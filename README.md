@@ -14,6 +14,7 @@ The guide contains the following sections:
 * [Advanced](#advanced)
   - [Machine Learning](#machine-learning)
   - [Deep Learning](#deep-learning)
+  - [Data Science](#data-science)
   - [Artificial Intelligence](#artificial-intelligence)
   - [Cyber Security](#cyber-security)
 * [Developer Programs](#developer-programs)
@@ -39,7 +40,6 @@ The guide contains the following sections:
 * [Codechef](http://www.codechef.com/)
 * [HackerRank](https://www.hackerrank.com/)
 * [HackerEarth](https://www.hackerearth.com/)
-* [Kaggle (Data Science)](https://www.kaggle.com/)
 
 # Intermediate
 
@@ -83,6 +83,11 @@ The guide contains the following sections:
 * [Udacity](https://in.udacity.com/course/deep-learning--ud730)
 * [Coursera](https://www.coursera.org/specializations/deep-learning)
 * [Google Code Labs](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0) - TensorFlow and deep learning, without a PhD
+
+## Data Science
+- [Learning From Data](https://work.caltech.edu/telecourse.html) - Yaser Abu-Mostafa, Caltech
+- [Programming with Python for Data Science](https://www.edx.org/course/programming-with-python-for-data-science) - Microsoft
+- [Kaggle](https://www.kaggle.com/) - Data Science competitions
 
 ## Artificial Intelligence
 * [Elements of AI](https://www.elementsofai.com/)
