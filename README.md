@@ -116,6 +116,7 @@ The guide contains the following sections:
 - [Google Developer Student Clubs](https://docs.google.com/document/d/1ID21JDIYQ144tH0XSwOXF4nF5JWUbXIxAlmP4DWrOwU/edit)
 - [Microsoft Student Partners](https://studentpartners.microsoft.com/)
 - [HackerRank Campus Ambassadors](https://www.hackerrank.com/campus-ambassador-program)
+- [Mozilla Campus Clubs](https://campus.mozilla.community/)
 
 ---
 
