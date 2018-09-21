@@ -21,6 +21,8 @@ The guide contains the following sections:
   - [Technical Student Ambassador Programs](#technical-student-ambassador-programs)
   - [Summer Student Programs](#summer-student-programs)
   - [Women In Tech Programs](#women-in-tech-programs)
+  
+  ---
 
 # Beginner
 
@@ -40,6 +42,8 @@ The guide contains the following sections:
 * [Codechef](http://www.codechef.com/)
 * [HackerRank](https://www.hackerrank.com/)
 * [HackerEarth](https://www.hackerearth.com/)
+
+---
 
 # Intermediate
 
@@ -68,6 +72,8 @@ The guide contains the following sections:
 - [Codetriange](https://www.codetriage.com/) - Help out your favorite open source projects and become a better developer while doing it.
 - [Pull Request Roulette](http://PullRequestRoulette.com) - Pull requests (or PRs) submitted for review.
 - [24 Pull Requests](http://24pullrequests.com) - Contribute to projects for 24 days leading up to christmas.
+
+---
 
 # Advanced
 
@@ -98,6 +104,8 @@ The guide contains the following sections:
 ## Cyber Security
 * [Cybrary](https://www.cybrary.it/catalog/?level=beginner)
 
+---
+
 # Developer Programs
 
 ## Technical Student Ambassador Programs
@@ -109,11 +117,15 @@ The guide contains the following sections:
 - [Microsoft Student Partners](https://studentpartners.microsoft.com/)
 - [HackerRank Campus Ambassadors](https://www.hackerrank.com/campus-ambassador-program)
 
+---
+
 ## Summer Student Programs
 * [IISC Summer School](https://events.csa.iisc.ac.in/summerschool2018/)
 * [Code Jam Kickstart](https://code.google.com/codejam/kickstart/) - Solve algorithmic challenges designed by Google engineers.
 * [Code Jam](https://code.google.com/codejam/) - Google’s largest coding competition.
 * [Google Summer of Code](https://summerofcode.withgoogle.com/)
+
+---
 
 ## Women In Tech Programs
 - [Google's Women Techmakers](https://www.womentechmakers.com/)
