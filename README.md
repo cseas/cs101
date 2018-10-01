@@ -72,6 +72,7 @@ The guide contains the following sections:
 - [Codetriange](https://www.codetriage.com/) - Help out your favorite open source projects and become a better developer while doing it.
 - [Pull Request Roulette](http://PullRequestRoulette.com) - Pull requests (or PRs) submitted for review.
 - [24 Pull Requests](http://24pullrequests.com) - Contribute to projects for 24 days leading up to christmas.
+- [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - Support open source and earn a limited edition T-shirt. 
 
 ---
 
