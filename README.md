@@ -18,7 +18,7 @@ The guide contains the following sections:
   - [Artificial Intelligence](#artificial-intelligence)
   - [Cyber Security](#cyber-security)
 * [Developer Programs](#developer-programs)
-  - [Technical Student Ambassador Programs](#technical-student-ambassador-programs)
+  - [Technical Student/Developer Programs](#technical-student-ambassador-programs)
   - [Summer Student Programs](#summer-student-programs)
   - [Women In Tech Programs](#women-in-tech-programs)
   
@@ -111,7 +111,7 @@ The guide contains the following sections:
 
 # Developer Programs
 
-## Technical Student Ambassador Programs
+## Technical Student/Developer Programs
 - [Unity Student Ambassadors](https://unity3d.com/student-ambassadors)
 - [HackerEarth Campus Ambassadors](https://www.hackerearth.com/docs/wiki/campus/introduction/)
 - [GitHub Campus Experts](https://education.github.com/students/experts)
@@ -120,6 +120,8 @@ The guide contains the following sections:
 - [Microsoft Student Partners](https://studentpartners.microsoft.com/)
 - [HackerRank Campus Ambassadors](https://www.hackerrank.com/campus-ambassador-program)
 - [Mozilla Campus Clubs](https://campus.mozilla.community/)
+- [Mozilla Tech Speakers](https://events.mozilla.org/techspeakers)
+- [Mozilla Reps](https://reps.mozilla.org/)
 
 ---
 
