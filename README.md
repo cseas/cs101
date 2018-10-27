@@ -71,6 +71,8 @@ The guide contains the following sections:
 - [Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
 - [Codetriange](https://www.codetriage.com/) - Help out your favorite open source projects and become a better developer while doing it.
 - [Pull Request Roulette](http://PullRequestRoulette.com) - Pull requests (or PRs) submitted for review.
+- [Codetribute](https://codetribute.mozilla.org/) - Find your first code contribution with Mozilla.
+- [What Can I Do For Mozilla](https://whatcanidoformozilla.org/)
 - [24 Pull Requests](http://24pullrequests.com) - Contribute to projects for 24 days leading up to christmas.
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - Support open source and earn a limited edition T-shirt. 
 
