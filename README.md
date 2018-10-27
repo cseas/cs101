@@ -18,7 +18,7 @@ The guide contains the following sections:
   - [Artificial Intelligence](#artificial-intelligence)
   - [Cyber Security](#cyber-security)
 * [Developer Programs](#developer-programs)
-  - [Technical Student/Developer Programs](#technical-student-ambassador-programs)
+  - [Technical Student/Developer Programs](#technical-studentdeveloper-programs)
   - [Summer Student Programs](#summer-student-programs)
   - [Women In Tech Programs](#women-in-tech-programs)
   
