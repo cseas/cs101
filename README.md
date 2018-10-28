@@ -122,6 +122,7 @@ The guide contains the following sections:
 - [Mozilla Campus Clubs](https://campus.mozilla.community/)
 - [Mozilla Tech Speakers](https://events.mozilla.org/techspeakers)
 - [Mozilla Reps](https://reps.mozilla.org/)
+- [Facebook Developer Circles](https://developers.facebook.com/developercircles)
 
 ---
 
