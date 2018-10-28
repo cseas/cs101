@@ -45,7 +45,7 @@ The guide contains the following sections:
 * [HackerEarth](https://www.hackerearth.com/)
 
 ## Curated Curriculum
-For people interested in following a univeristy like curriculum.
+For people interested in following a university like curriculum.
 - [Computer Science](https://github.com/ossu/computer-science) - Path to a free self-taught education in Computer Science!
 - [Machine Learning](https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months) - Learn Machine Learning in 3 Months.
 - [Deep Learning](https://github.com/llSourcell/Learn_Deep_Learning_in_6_Weeks) - Learn Deep Learning in 6 Weeks.
