@@ -60,6 +60,7 @@ The following websites feature some of the best resources available online for l
 - [edX](https://www.edx.org/)
 - [MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
 - [Microsoft Docs](https://docs.microsoft.com/en-us/)
+- [Microsoft Virtual Academy](https://mva.microsoft.com/)
 
 ---
 
