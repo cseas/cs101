@@ -2,23 +2,25 @@
 Awesome collection of some of the best resources online to welcome fresher college students to the world of Computer Science. Contributions are welcome.  
 
 The guide contains the following sections:
-* [Beginner](#beginner)  
+- [Beginner](#beginner)  
   - [Absolute Beginners](#absolute-beginners)
   - [Kickstart Projects](#kickstart-projects)
   - [Competitive Coding](#competitive-coding)
   - [Curated Curriculum](#curated-curriculum)
-* [Intermediate](#intermediate)
+  - [Free Online Courses](#free-online-courses)
+- [Intermediate](#intermediate)
   - [Web Development](#web-development)
   - [Mobile Development](#mobile-development)
   - [Game Development](#game-development)
   - [Open Source](#open-source)
-* [Advanced](#advanced)
+- [Advanced](#advanced)
   - [Machine Learning](#machine-learning)
   - [Deep Learning](#deep-learning)
   - [Data Science](#data-science)
   - [Artificial Intelligence](#artificial-intelligence)
+  - [Augmented Reality](#augmented-reality)
   - [Cyber Security](#cyber-security)
-* [Developer Programs](#developer-programs)
+- [Developer Programs](#developer-programs)
   - [Technical Student/Developer Programs](#technical-studentdeveloper-programs)
   - [Summer Student Programs](#summer-student-programs)
   - [Women In Tech Programs](#women-in-tech-programs)
@@ -28,21 +30,21 @@ The guide contains the following sections:
 # Beginner
 
 ## Absolute Beginners
-* [CS50](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) - Introduction to Computer Science by Harvard University on edX.
-* [CS 101](https://in.udacity.com/course/intro-to-computer-science--cs101) - Udacity's Intro to Computer Science.
-* [The New Boston](https://www.youtube.com/user/thenewboston/playlists) - Programming tutorials by Bucky Roberts.
+- [CS50](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) - Introduction to Computer Science by Harvard University on edX.
+- [CS 101](https://in.udacity.com/course/intro-to-computer-science--cs101) - Udacity's Intro to Computer Science.
+- [The New Boston](https://www.youtube.com/user/thenewboston/playlists) - Programming tutorials by Bucky Roberts.
 
 ## Kickstart Projects
-* [Practice Programs](https://github.com/karan/Projects-Solutions)
-* [Project Ideas](https://github.com/vicky002/1000_Projects)
-* [100 Days of Code Challenge](http://www.100daysofcode.com/)
-* [Project Based Learning](https://github.com/tuvtran/project-based-learning)
-* [Rapid API](https://rapidapi.com/) - World's top APIs for all kinds of tasks.
+- [Practice Programs](https://github.com/karan/Projects-Solutions)
+- [Project Ideas](https://github.com/vicky002/1000_Projects)
+- [100 Days of Code Challenge](http://www.100daysofcode.com/)
+- [Project Based Learning](https://github.com/tuvtran/project-based-learning)
+- [Rapid API](https://rapidapi.com/) - World's top APIs for all kinds of tasks.
 
 ## Competitive Coding
-* [Codechef](http://www.codechef.com/)
-* [HackerRank](https://www.hackerrank.com/)
-* [HackerEarth](https://www.hackerearth.com/)
+- [Codechef](http://www.codechef.com/)
+- [HackerRank](https://www.hackerrank.com/)
+- [HackerEarth](https://www.hackerearth.com/)
 
 ## Curated Curriculum
 For people interested in following a university like curriculum.
@@ -50,6 +52,14 @@ For people interested in following a university like curriculum.
 - [Machine Learning](https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months) - Learn Machine Learning in 3 Months.
 - [Deep Learning](https://github.com/llSourcell/Learn_Deep_Learning_in_6_Weeks) - Learn Deep Learning in 6 Weeks.
 - [Data Science](https://github.com/ossu/data-science) - Path to a free self-taught education in Data Science!
+
+## Free Online Courses
+The following websites feature some of the best resources available online for learning topics related to Computer Science.
+- [Udacity](https://in.udacity.com/)
+- [Coursera](https://www.coursera.org/)
+- [edX](https://www.edx.org/)
+- [MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
+- [Microsoft Docs](https://docs.microsoft.com/en-us/)
 
 ---
 
@@ -63,12 +73,12 @@ For people interested in following a university like curriculum.
 - [Intro to React](https://reactjs.org/tutorial/tutorial.html)
 
 ## Mobile Development
-* [Google's Mobile Courses](https://developers.google.com/training/courses/overview)
-* [CS50's Mobile App Development with React Native](https://youtu.be/_P7wHN_kOv4)
+- [Google's Mobile Courses](https://developers.google.com/training/courses/overview)
+- [CS50's Mobile App Development with React Native](https://youtu.be/_P7wHN_kOv4)
 
 ## Game Development
-* [CS50's Introduction to Game Development](https://youtu.be/YP-PYULVx0k)
-* [Unity 3D](https://unity3d.com/learn)
+- [CS50's Introduction to Game Development](https://youtu.be/YP-PYULVx0k)
+- [Unity 3D](https://unity3d.com/learn)
 
 ## Open Source
 
@@ -89,17 +99,17 @@ For people interested in following a university like curriculum.
 # Advanced
 
 ## Machine Learning
-* [Coursera](https://www.coursera.org/learn/machine-learning) - Machine Learning by Andrew NG using Matlab.
-* [Udacity](https://in.udacity.com/course/intro-to-machine-learning--ud120) - Intro to ML using Scikit-Learn.
-* [Google](https://developers.google.com/machine-learning/crash-course/prereqs-and-prework) - Machine Learning Crash Course using Tensorflow.
-* [YouTube](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal) - Machine Learning Recipes with Josh Gordon.
-* [Foundations of Machine Learning](https://bloomberg.github.io/foml/#home) - 30 lecture training course by Blooomberg.
+- [Coursera](https://www.coursera.org/learn/machine-learning) - Machine Learning by Andrew NG using Matlab.
+- [Udacity](https://in.udacity.com/course/intro-to-machine-learning--ud120) - Intro to ML using Scikit-Learn.
+- [Google](https://developers.google.com/machine-learning/crash-course/prereqs-and-prework) - Machine Learning Crash Course using Tensorflow.
+- [YouTube](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal) - Machine Learning Recipes with Josh Gordon.
+- [Foundations of Machine Learning](https://bloomberg.github.io/foml/#home) - 30 lecture training course by Blooomberg.
 
 ## Deep Learning
-* [Fast.ai](http://course.fast.ai/) - 7 week course on Practical Deep Learning
-* [Udacity](https://in.udacity.com/course/deep-learning--ud730)
-* [Coursera](https://www.coursera.org/specializations/deep-learning)
-* [Google Code Labs](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0) - TensorFlow and deep learning, without a PhD
+- [Fast.ai](http://course.fast.ai/) - 7 week course on Practical Deep Learning
+- [Udacity](https://in.udacity.com/course/deep-learning--ud730)
+- [Coursera](https://www.coursera.org/specializations/deep-learning)
+- [Google Code Labs](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0) - TensorFlow and deep learning, without a PhD
 
 ## Data Science
 - [Learning From Data](https://work.caltech.edu/telecourse.html) - Yaser Abu-Mostafa, Caltech
@@ -107,13 +117,16 @@ For people interested in following a university like curriculum.
 - [Kaggle](https://www.kaggle.com/) - Data Science competitions
 
 ## Artificial Intelligence
-* [Elements of AI](https://www.elementsofai.com/)
-* [Udacity](https://in.udacity.com/course/intro-to-artificial-intelligence--cs271) - Intro to AI by Peter Norvig and Sebastian Thrun
-* [Microsoft AI School](https://aischool.microsoft.com/learning-paths)
-* [Microsoft AI Professional Program](https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/)
+- [Elements of AI](https://www.elementsofai.com/)
+- [Udacity](https://in.udacity.com/course/intro-to-artificial-intelligence--cs271) - Intro to AI by Peter Norvig and Sebastian Thrun
+- [Microsoft AI School](https://aischool.microsoft.com/learning-paths)
+- [Microsoft AI Professional Program](https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/)
+
+## Augmented Reality
+- [Google ARCore](https://developers.google.com/ar/)
 
 ## Cyber Security
-* [Cybrary](https://www.cybrary.it/catalog/?level=beginner)
+- [Cybrary](https://www.cybrary.it/catalog/?level=beginner)
 
 ---
 
