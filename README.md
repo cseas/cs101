@@ -122,6 +122,7 @@ The following websites feature some of the best resources available online for l
 - [Udacity](https://in.udacity.com/course/intro-to-artificial-intelligence--cs271) - Intro to AI by Peter Norvig and Sebastian Thrun
 - [Microsoft AI School](https://aischool.microsoft.com/learning-paths)
 - [Microsoft AI Professional Program](https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/)
+- [AI Adventures](https://www.youtube.com/playlist?list=PLIivdWyY5sqJxnwJhe3etaK7utrBiPBQ2) - Video series by Google Cloud Platform
 
 ## Augmented Reality
 - [Google ARCore](https://developers.google.com/ar/)
