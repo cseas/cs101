@@ -24,6 +24,7 @@ The guide contains the following sections:
   - [Technical Student/Developer Programs](#technical-studentdeveloper-programs)
   - [Summer Student Programs](#summer-student-programs)
   - [Women In Tech Programs](#women-in-tech-programs)
+  - [Annual Hackathons](#annual-hackathons)
   
   ---
 
@@ -92,8 +93,6 @@ The following websites feature some of the best resources available online for l
 - [Pull Request Roulette](http://PullRequestRoulette.com) - Pull requests (or PRs) submitted for review.
 - [Codetribute](https://codetribute.mozilla.org/) - Find your first code contribution with Mozilla.
 - [What Can I Do For Mozilla](https://whatcanidoformozilla.org/)
-- [24 Pull Requests](http://24pullrequests.com) - Contribute to projects for 24 days leading up to christmas.
-- [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - Support open source and earn a limited edition T-shirt. 
 
 ---
 
@@ -150,10 +149,8 @@ The following websites feature some of the best resources available online for l
 ---
 
 ## Summer Student Programs
-* [IISC Summer School](https://events.csa.iisc.ac.in/summerschool2018/)
-* [Code Jam Kickstart](https://code.google.com/codejam/kickstart/) - Solve algorithmic challenges designed by Google engineers.
-* [Code Jam](https://code.google.com/codejam/) - Google’s largest coding competition.
-* [Google Summer of Code](https://summerofcode.withgoogle.com/)
+- [IISC Summer School](https://events.csa.iisc.ac.in/summerschool2018/)
+- [Google Summer of Code](https://summerofcode.withgoogle.com/)
 
 ---
 
@@ -161,3 +158,12 @@ The following websites feature some of the best resources available online for l
 - [Google's Women Techmakers](https://www.womentechmakers.com/)
 - [Django Girls](https://djangogirls.org/)
 - [Outreachy](https://www.outreachy.org/)
+
+## Annual Hackathons
+A list of annually conducted major hackathons and developer centric initiatives, sorted in chronological order.
+- [Mar: Google Code Jam](https://code.google.com/codejam/) - Solve algorithmic problems in a fixed amount of time.
+- [Jul: Microsoft Imagine Cup](https://imaginecup.microsoft.com/) - Resolve some of the world's toughest challenges with technology.
+- [Sep: NASA Space Apps Challenge](https://www.spaceappschallenge.org) - International mass collaboration focused on space exploration.
+- [Oct: DigitalOcean Hacktoberfest](https://hacktoberfest.digitalocean.com/) - Support open source and earn a limited edition T-shirt.
+- [Nov: GitHub Game Off](https://gameoff.github.com/) - Spend one month creating games based on a theme.
+- [Dec: 24 Pull Requests](http://24pullrequests.com) - Contribute to projects for 24 days leading up to christmas.
