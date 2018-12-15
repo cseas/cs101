@@ -1,5 +1,7 @@
-# cs101
+# CS 101
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
+
 Awesome collection of some of the best resources online for Computer Science.  
 Contributions are welcome.  
 
