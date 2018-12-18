@@ -38,6 +38,7 @@ The guide contains the following sections:
 - [CS50](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) - Introduction to Computer Science by Harvard University on edX.
 - [CS 101](https://in.udacity.com/course/intro-to-computer-science--cs101) - Udacity's Intro to Computer Science.
 - [The New Boston](https://www.youtube.com/user/thenewboston/playlists) - Programming tutorials by Bucky Roberts.
+- [Google Tech Dev Guide](https://techdevguide.withgoogle.com/) - Grow your technical skills with Google.
 
 ## Kickstart Projects
 - [Practice Programs](https://github.com/karan/Projects-Solutions)
@@ -165,6 +166,7 @@ The following websites feature some of the best resources available online for l
 
 ## Annual Hackathons
 A list of annually conducted major hackathons and developer centric initiatives, sorted in chronological order.
+- [Feb: Google Kick Start](https://codingcompetitions.withgoogle.com/kickstart/) - Algorithmic challenges designed by Google engineers.
 - [Mar: Google Code Jam](https://code.google.com/codejam/) - Solve algorithmic problems in a fixed amount of time.
 - [Jul: Microsoft Imagine Cup](https://imaginecup.microsoft.com/) - Resolve some of the world's toughest challenges with technology.
 - [Sep: NASA Space Apps Challenge](https://www.spaceappschallenge.org) - International mass collaboration focused on space exploration.
