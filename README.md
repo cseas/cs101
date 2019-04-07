@@ -86,6 +86,11 @@ The following websites feature some of the best resources available online for l
 ## Game Development
 - [CS50's Introduction to Game Development](https://youtu.be/YP-PYULVx0k)
 - [Unity 3D](https://unity3d.com/learn)
+- [Godot Engine](https://godotengine.org/) - Godot uses GDScript, which is similar to Python
+- [Love](https://love2d.org/) - Create 2D games in Lua
+- [libGDX](https://libgdx.badlogicgames.com/) - Cross-platform game development in Java
+- [pygame](https://www.pygame.org/) - Python library built on top of [SDL](http://www.libsdl.org/)
+- [Phaser](http://phaser.io/) - Desktop and mobile HTML5 game framework
 
 ## Open Source
 
