@@ -132,6 +132,7 @@ The following websites feature some of the best resources available online for l
 - [Microsoft AI School](https://aischool.microsoft.com/learning-paths)
 - [Microsoft AI Professional Program](https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/)
 - [AI Adventures](https://www.youtube.com/playlist?list=PLIivdWyY5sqJxnwJhe3etaK7utrBiPBQ2) - Video series by Google Cloud Platform
+- [edX](https://www.edx.org/course/artificial-intelligence-ai-columbiax-csmm-101x-0) - [Berkeley](http://aima.cs.berkeley.edu/)'s CS 188, offered through edX
 
 ## Augmented Reality
 - [Google ARCore](https://developers.google.com/ar/)
