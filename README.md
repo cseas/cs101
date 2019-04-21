@@ -145,6 +145,7 @@ The following websites feature some of the best resources available online for l
 # Developer Programs
 
 ## Technical Student/Developer Programs
+- [Alexa Student Influencers](https://developer.amazon.com/en-in/alexa/alexa-student-influencer)
 - [Unity Student Ambassadors](https://unity3d.com/student-ambassadors)
 - [HackerEarth Campus Ambassadors](https://www.hackerearth.com/docs/wiki/campus/introduction/)
 - [GitHub Campus Experts](https://education.github.com/students/experts)
