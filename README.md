@@ -161,7 +161,7 @@ The following websites feature some of the best resources available online for l
 ---
 
 ## Summer Student Programs
-- [IISC Summer School](https://events.csa.iisc.ac.in/summerschool2018/)
+- [IISc Summer School](https://events.csa.iisc.ac.in/summerschool2018/)
 - [Google Summer of Code](https://summerofcode.withgoogle.com/)
 - [Google Season of Docs](https://developers.google.com/season-of-docs/)
 - [Spark](http://spark.iitr.ac.in/)
@@ -174,7 +174,7 @@ The following websites feature some of the best resources available online for l
 - [Outreachy](https://www.outreachy.org/)
 
 ## Annual Hackathons
-A list of annually conducted major hackathons and developer centric initiatives, sorted in chronological order.
+A list of annually conducted major hackathons and developer centric initiatives, sorted in chronological order of registration period.
 - [Feb: Google Kick Start](https://codingcompetitions.withgoogle.com/kickstart/) - Algorithmic challenges designed by Google engineers.
 - [Mar: Google Code Jam](https://code.google.com/codejam/) - Solve algorithmic problems in a fixed amount of time.
 - [Jul: Microsoft Imagine Cup](https://imaginecup.microsoft.com/) - Resolve some of the world's toughest challenges with technology.
