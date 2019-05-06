@@ -164,7 +164,7 @@ The following websites feature some of the best resources available online for l
 - [IISc Summer School](https://events.csa.iisc.ac.in/summerschool2018/)
 - [Google Summer of Code](https://summerofcode.withgoogle.com/)
 - [Google Season of Docs](https://developers.google.com/season-of-docs/)
-- [Spark](http://spark.iitr.ac.in/)
+- [IITR Spark](http://spark.iitr.ac.in/)
 - [FossAsia OpenSource](https://fossasia.org/internship)
 
 ---
