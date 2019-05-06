@@ -165,6 +165,7 @@ The following websites feature some of the best resources available online for l
 - [Google Summer of Code](https://summerofcode.withgoogle.com/)
 - [Google Season of Docs](https://developers.google.com/season-of-docs/)
 - [Spark](http://spark.iitr.ac.in/)
+- [FossAsia OpenSource](https://fossasia.org/internship)
 
 ---
 
