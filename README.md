@@ -27,6 +27,7 @@ The guide contains the following sections:
 - [Developer Programs](#developer-programs)
   - [Technical Student/Developer Programs](#technical-studentdeveloper-programs)
   - [Summer Student Programs](#summer-student-programs)
+  - [Winter Student Programs](#winter-student-programs)
   - [Women In Tech Programs](#women-in-tech-programs)
   - [Annual Hackathons](#annual-hackathons)
   
@@ -164,8 +165,14 @@ The following websites feature some of the best resources available online for l
 - [IISc Summer School](https://events.csa.iisc.ac.in/summerschool2018/)
 - [Google Summer of Code](https://summerofcode.withgoogle.com/)
 - [Google Season of Docs](https://developers.google.com/season-of-docs/)
+- [Crio Summer of Doing](https://crio.do/csod)
 - [IITR Spark](http://spark.iitr.ac.in/)
 - [FossAsia OpenSource](https://fossasia.org/internship)
+
+---
+
+## Winter Student Programs
+- [Kharagpur Winter of Code](https://kwoc.kossiitkgp.org/)
 
 ---
 
