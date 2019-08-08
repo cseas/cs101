@@ -15,6 +15,7 @@ The guide contains the following sections:
 - [Intermediate](#intermediate)
   - [Web Development](#web-development)
   - [Mobile Development](#mobile-development)
+  - [Databases](#databases)
   - [Game Development](#game-development)
   - [Open Source](#open-source)
 - [Advanced](#advanced)
@@ -87,6 +88,9 @@ The following websites feature some of the best resources available online for l
 ## Mobile Development
 - [Google's Mobile Courses](https://developers.google.com/training/courses/overview)
 - [CS50's Mobile App Development with React Native](https://youtu.be/_P7wHN_kOv4)
+
+## Databases
+- [Kaggle SQL Summer Camp](https://www.youtube.com/playlist?list=PLqFaTIg4myu9neIs_wfWzgeOkKbiImXB6)
 
 ## Game Development
 - [CS50's Introduction to Game Development](https://youtu.be/YP-PYULVx0k)
