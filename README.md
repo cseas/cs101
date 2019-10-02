@@ -189,6 +189,7 @@ The following websites feature some of the best resources available online for l
 - [Google's Women Techmakers](https://www.womentechmakers.com/)
 - [Django Girls](https://djangogirls.org/)
 - [Outreachy](https://www.outreachy.org/)
+- [Learn IT, Girl!](https://www.learnitgirl.com/)
 
 ## Annual Hackathons
 A list of annually conducted major hackathons and developer centric initiatives, sorted in chronological order of registration period.
