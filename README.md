@@ -155,17 +155,19 @@ The following websites feature some of the best resources available online for l
 
 ## Technical Student/Developer Programs
 - [Alexa Student Influencers](https://developer.amazon.com/en-in/alexa/alexa-student-influencer)
-- [KPMG Ambassadors](https://home.kpmg/pl/en/home/careers/students-and-graduates/student-programs/kpmg-ambassadors.html)
-- [HackerEarth Campus Ambassadors](https://www.hackerearth.com/docs/wiki/campus/introduction/)
-- [GitHub Campus Experts](https://education.github.com/students/experts)
 - [Dell Campassadors](http://www.dellcampassador.com/)
-- [Google Developer Student Clubs](https://docs.google.com/document/d/1ID21JDIYQ144tH0XSwOXF4nF5JWUbXIxAlmP4DWrOwU/edit)
-- [Microsoft Student Partners](https://studentpartners.microsoft.com/)
+- [Facebook Developer Circles](https://developers.facebook.com/developercircles)
+- [GitHub Campus Experts](https://education.github.com/students/experts)
+- [Google Developer Experts](https://developers.google.com/community/experts)
+- [Google Developer Student Clubs](https://developers.google.com/community/dsc/organizers)
+- [HackerEarth Campus Ambassadors](https://www.hackerearth.com/docs/wiki/campus/introduction/)
 - [HackerRank Campus Ambassadors](https://www.hackerrank.com/campus-ambassador-program)
+- [KPMG Ambassadors](https://home.kpmg/pl/en/home/careers/students-and-graduates/student-programs/kpmg-ambassadors.html)
+- [Microsoft Student Partners](https://studentpartners.microsoft.com/)
 - [Mozilla Campus Clubs](https://campus.mozilla.community/)
 - [Mozilla Tech Speakers](https://events.mozilla.org/techspeakers)
 - [Mozilla Reps](https://reps.mozilla.org/)
-- [Facebook Developer Circles](https://developers.facebook.com/developercircles)
+- [Skillenza Campus Hustlers](https://skillenza.com/campus-ambassador)
 - [Unity Student Ambassadors](https://unity3d.com/student-ambassadors)
 
 ---
