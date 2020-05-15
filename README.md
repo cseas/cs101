@@ -18,6 +18,7 @@ The guide contains the following sections:
   - [Databases](#databases)
   - [Game Development](#game-development)
   - [Open Source](#open-source)
+  - [Software Development](#software-development)
 - [Advanced](#advanced)
   - [Machine Learning](#machine-learning)
   - [Deep Learning](#deep-learning)
@@ -112,6 +113,10 @@ The following websites feature some of the best resources available online for l
 - [Pull Request Roulette](http://PullRequestRoulette.com) - Pull requests (or PRs) submitted for review.
 - [Codetribute](https://codetribute.mozilla.org/) - Find your first code contribution with Mozilla.
 - [What Can I Do For Mozilla](https://whatcanidoformozilla.org/)
+
+## Software Development
+- [.NET](https://dot.net/videos)
+  - [Entity Framework Core](https://aka.ms/Learn-EF-Core)
 
 ---
 
