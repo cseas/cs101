@@ -26,6 +26,7 @@ The guide contains the following sections:
   - [Artificial Intelligence](#artificial-intelligence)
   - [Augmented Reality](#augmented-reality)
   - [Cyber Security](#cyber-security)
+  - [DevOps](#devops)
 - [Developer Programs](#developer-programs)
   - [Technical Student/Developer Programs](#technical-studentdeveloper-programs)
   - [Summer Student Programs](#summer-student-programs)
@@ -141,18 +142,24 @@ The following websites feature some of the best resources available online for l
 - [Kaggle](https://www.kaggle.com/) - Data Science competitions
 
 ## Artificial Intelligence
-- [Elements of AI](https://www.elementsofai.com/)
-- [Udacity](https://in.udacity.com/course/intro-to-artificial-intelligence--cs271) - Intro to AI by Peter Norvig and Sebastian Thrun
-- [Microsoft AI School](https://aischool.microsoft.com/learning-paths)
-- [Microsoft AI Professional Program](https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/)
-- [AI Adventures](https://www.youtube.com/playlist?list=PLIivdWyY5sqJxnwJhe3etaK7utrBiPBQ2) - Video series by Google Cloud Platform
-- [edX](https://www.edx.org/course/artificial-intelligence-ai-columbiax-csmm-101x-0) - [Berkeley](http://aima.cs.berkeley.edu/)'s CS 188, offered through edX
+* [Elements of AI](https://www.elementsofai.com/)
+* [Udacity](https://in.udacity.com/course/intro-to-artificial-intelligence--cs271) - Intro to AI by Peter Norvig and Sebastian Thrun
+* [Microsoft AI School](https://aischool.microsoft.com/learning-paths)
+* [Microsoft AI Professional Program](https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/)
+* [AI Adventures](https://www.youtube.com/playlist?list=PLIivdWyY5sqJxnwJhe3etaK7utrBiPBQ2) - Video series by Google Cloud Platform
+* [edX](https://www.edx.org/course/artificial-intelligence-ai-columbiax-csmm-101x-0) - [Berkeley](http://aima.cs.berkeley.edu/)'s CS 188, offered through edX
 
 ## Augmented Reality
 - [Google ARCore](https://developers.google.com/ar/)
 
 ## Cyber Security
 - [Cybrary](https://www.cybrary.it/catalog/?level=beginner)
+
+## DevOps
+- [Docker](https://www.katacoda.com/courses/docker)
+- [OpenShift](https://learn.openshift.com/developing-on-openshift/)
+- [Kubernetes](https://www.katacoda.com/courses/kubernetes)
+- [Jenkins](https://www.katacoda.com/courses/cicd)
 
 ---
 
