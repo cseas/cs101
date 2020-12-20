@@ -81,7 +81,6 @@ The following websites feature some of the best resources available online for l
 * [Free Code Camp](https://learn.freecodecamp.org/)
 * [Udacity: Intro to HTML and CSS](https://in.udacity.com/course/intro-to-html-and-css--ud304)
 * [Udacity: Intro to JavaScript](https://in.udacity.com/course/intro-to-javascript--ud803)
-* [Intro to React](https://reactjs.org/tutorial/tutorial.html)
 * Create your personal website/blog
   * [Jekyll](https://jekyllrb.com/)
   * [Hugo](https://gohugo.io/)
