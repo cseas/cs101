@@ -88,6 +88,7 @@ The following websites feature some of the best resources available online for l
 * [React](https://scrimba.com/learn/learnreact)
   * [Global client state management](https://redux-toolkit.js.org/tutorials/basic-tutorial)
   * [Global server state management](https://react-query.tanstack.com/quick-start)
+* [Codementor: Web Development tutors](https://www.codementor.io/web-development-experts)
 
 ## Mobile Development
 - [Google's Mobile Courses](https://developers.google.com/training/courses/overview)
@@ -131,6 +132,7 @@ The following websites feature some of the best resources available online for l
 - [Google](https://developers.google.com/machine-learning/crash-course/prereqs-and-prework) - Machine Learning Crash Course using Tensorflow.
 - [YouTube](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal) - Machine Learning Recipes with Josh Gordon.
 - [Foundations of Machine Learning](https://bloomberg.github.io/foml/#home) - 30 lecture training course by Blooomberg.
+- [Codementor: Machine Learning tutors](https://www.codementor.io/machine-learning-experts) - 1-on-1 coding mentorship session 
 
 ## Deep Learning
 - [Fast.ai](http://course.fast.ai/) - 7 week course on Practical Deep Learning
@@ -142,6 +144,7 @@ The following websites feature some of the best resources available online for l
 - [Learning From Data](https://work.caltech.edu/telecourse.html) - Yaser Abu-Mostafa, Caltech
 - [Programming with Python for Data Science](https://www.edx.org/course/programming-with-python-for-data-science) - Microsoft
 - [Kaggle](https://www.kaggle.com/) - Data Science competitions
+- [Codementor: Python Learning tutors](https://www.codementor.io/python-experts)
 
 ## Artificial Intelligence
 * [Elements of AI](https://www.elementsofai.com/)
@@ -183,6 +186,7 @@ The following websites feature some of the best resources available online for l
 - [Mozilla Reps](https://reps.mozilla.org/)
 - [Skillenza Campus Hustlers](https://skillenza.com/campus-ambassador)
 - [Unity Student Ambassadors](https://unity3d.com/student-ambassadors)
+- [Codementor Student Program](https://www.codementor.io/students)
 
 ---
 
